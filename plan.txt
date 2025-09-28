@@ -1,11 +1,24 @@
 1. Сделать модели
-    - Post
-    - Comment
-    - Group
-    - User
+    - Post +
+    - Comment +
+    - Group +
+    - User +
     - Follow
 2. Роуты
+    - Post +
+    - Comment +
+    - Group +
+    - Follow
 3. Сериализаторы
+    - Post +
+    - Comment +
+    - Group +
+    - Follow
 4. Вью
-5. Аутентификация
+    - Post +
+    - Comment +
+    - Group +
+    - Follow
+5. Аутентификация +
 6. Пермишены
+7. Пагинация
