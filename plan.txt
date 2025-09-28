@@ -3,22 +3,24 @@
     - Comment +
     - Group +
     - User +
-    - Follow
+    - Follow +
 2. Роуты
     - Post +
     - Comment +
     - Group +
-    - Follow
+    - Follow +
 3. Сериализаторы
     - Post +
     - Comment +
     - Group +
-    - Follow
+    - Follow +
 4. Вью
     - Post +
     - Comment +
     - Group +
-    - Follow
+    - Follow +
 5. Аутентификация +
-6. Пермишены
-7. Пагинация
+6. Пермишены ?
+7. Пагинация ?
+
+Нужно доработать Post (сделать group необязательным)
